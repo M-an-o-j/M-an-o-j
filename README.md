@@ -15,5 +15,5 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 
 ## computer languages which I know 
-<code><img height="50" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg](https://icons8.com/icon/13441/python)https://icons8.com/icon/13441/python"></code>
+<code><img height="50" src="https://icons8.com/icon/13441/python"></code>
 
