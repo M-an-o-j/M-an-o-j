@@ -1,4 +1,4 @@
-# I am Manoj
+# Manoj
 [![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/M-an-o-j/)
            Manoj.I am a developer and also a commerce student. You may have a question how can be a developer from commerce stream? Truth is anyone can became whatever they want, only if they have curiosity and consistency.Like I have a keen interest in science and Computer.
       My interest began when I saw 'Ironman' movie. Yeah, I am Moviebuff. Though it is a fictional character , Tony stark inspires me to do many science stuff. I started reading my old science books and learned a lot on web development , machine learning, computer vision , Artificial intelligence(AI) etc.., . Tony stark helps me as a springboard to do all this techie things. I created this webpage using React JS and Taiwindcss. I think its enough to introduce myself.
