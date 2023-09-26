@@ -15,8 +15,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 
 ## computer languages which I know 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
