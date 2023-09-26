@@ -13,6 +13,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 
 ## computer languages which I know 
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
