@@ -15,6 +15,7 @@
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi.svg"></code>
 
 ## computer languages which I know 
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
