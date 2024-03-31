@@ -19,7 +19,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/128/9849/9849087.png"></code>
 
-## computer languages which I know 
+## Computer languages which I know 
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
